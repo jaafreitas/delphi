@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="10">
+      <Unit0>
+        <Filename Value="DemoCellClick.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DemoCellClick"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="101"/>
+        <CursorPos X="41" Y="114"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\packages\fcl-db\src\base\bufdataset.pas"/>
+        <UnitName Value="BufDataset"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\lcl\dbgrids.pas"/>
+        <UnitName Value="DBGrids"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2831"/>
+        <CursorPos X="1" Y="2850"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\packages\fcl-db\src\base\db.pas"/>
+        <UnitName Value="db"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="92"/>
+        <CursorPos X="5" Y="111"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\win\wininc\struct.inc"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="207"/>
+        <CursorPos X="1" Y="225"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3645"/>
+        <CursorPos X="1" Y="3665"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="636"/>
+        <CursorPos X="3" Y="655"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\lcl\include\winapi.inc"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="156"/>
+        <CursorPos X="1" Y="176"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\lcl\lclproc.pas"/>
+        <UnitName Value="LCLProc"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="842"/>
+        <CursorPos X="38" Y="864"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="140"/>
+        <CursorPos X="50" Y="159"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit9>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="77" Column="1" TopLine="51"/>
+      </Position1>
+      <Position2>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="79" Column="1" TopLine="51"/>
+      </Position2>
+      <Position3>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="80" Column="1" TopLine="51"/>
+      </Position3>
+      <Position4>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="81" Column="54" TopLine="51"/>
+      </Position4>
+      <Position5>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="77" Column="23" TopLine="51"/>
+      </Position5>
+      <Position6>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="80" Column="1" TopLine="51"/>
+      </Position6>
+      <Position7>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="81" Column="1" TopLine="51"/>
+      </Position7>
+      <Position8>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="74" Column="32" TopLine="51"/>
+      </Position8>
+      <Position9>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="68" Column="1" TopLine="51"/>
+      </Position9>
+      <Position10>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="79" Column="1" TopLine="51"/>
+      </Position10>
+      <Position11>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="80" Column="1" TopLine="51"/>
+      </Position11>
+      <Position12>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="81" Column="1" TopLine="51"/>
+      </Position12>
+      <Position13>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="82" Column="23" TopLine="51"/>
+      </Position13>
+      <Position14>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="96" Column="55" TopLine="63"/>
+      </Position14>
+      <Position15>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="86" Column="55" TopLine="64"/>
+      </Position15>
+      <Position16>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="69" Column="1" TopLine="59"/>
+      </Position16>
+      <Position17>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="49" Column="37" TopLine="27"/>
+      </Position17>
+      <Position18>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="120" Column="79" TopLine="98"/>
+      </Position18>
+      <Position19>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="129" Column="3" TopLine="110"/>
+      </Position19>
+      <Position20>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="43" Column="1" TopLine="25"/>
+      </Position20>
+      <Position21>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="106" Column="1" TopLine="82"/>
+      </Position21>
+      <Position22>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="140" Column="47" TopLine="121"/>
+      </Position22>
+      <Position23>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="7" Column="1" TopLine="1"/>
+      </Position23>
+      <Position24>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="124" Column="23" TopLine="108"/>
+      </Position24>
+      <Position25>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="110" Column="15" TopLine="91"/>
+      </Position25>
+      <Position26>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="64" Column="27" TopLine="45"/>
+      </Position26>
+      <Position27>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="37" Column="26" TopLine="18"/>
+      </Position27>
+      <Position28>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="38" Column="24" TopLine="19"/>
+      </Position28>
+      <Position29>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="110" Column="1" TopLine="91"/>
+      </Position29>
+      <Position30>
+        <Filename Value="DemoCellClick.lpr"/>
+        <Caret Line="115" Column="47" TopLine="96"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
